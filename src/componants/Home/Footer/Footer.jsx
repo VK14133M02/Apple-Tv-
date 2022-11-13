@@ -11,9 +11,9 @@ export const Footer = () => {
           <div className="tv-logo">
             <img src={require("../Images/TV App Logo.png")} alt="" />
           </div>
-          <p className="devices-heading">Watch Apple TV+ here or anywhere.</p>
+          <p className="devices-heading">Watch RiViK TV+ here or anywhere.</p>
           <p className="devices-subheading">
-            Find RiVik TV+ on the RiViK TV app, available on Apple Devices,
+            Find RiViK TV+ on the RiViK TV app, available on Apple Devices,
             smart TVs, and more.
           </p>
           <p className="support-link">
