@@ -48,7 +48,7 @@ function Navbar() {
         <Link to="/">
           <img
             style={{ marginLeft: "50px", width: "70px", padding: "5px" }}
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfBiEc2Q442yUNt4aDxe9ZQOYi9Zh0O8NX00KLxLBxMsZSFbF2VGH_arUXiXUFKBgtBHg&usqp=CAU"
+            src="https://document-export.canva.com/dVkjw/DAFRXpdVkjw/9/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20221112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221112T123430Z&X-Amz-Expires=89034&X-Amz-Signature=cb0c809db288a677cb41ff3576ee73de68a94a0fb67f12941b8c48ae6dd328af&X-Amz-SignedHeaders=host&response-expires=Sun%2C%2013%20Nov%202022%2013%3A18%3A24%20GMT"
           />
         </Link>
       </Box>

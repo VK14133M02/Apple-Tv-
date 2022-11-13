@@ -77,7 +77,7 @@ export const DetailsMain = () => {
         <div className="trailerBox">
             <h1 className="Head">How To Watch</h1>
             <div>
-                <img src="https://is1-ssl.mzstatic.com/image/thumb/DB8YqlVtN7M8YvGvgsP2eg/400x225.png" alt="" height="100%" width="100%" />
+                <img src="https://document-export.canva.com/dVkjw/DAFRXpdVkjw/9/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20221112%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221112T123430Z&X-Amz-Expires=89034&X-Amz-Signature=cb0c809db288a677cb41ff3576ee73de68a94a0fb67f12941b8c48ae6dd328af&X-Amz-SignedHeaders=host&response-expires=Sun%2C%2013%20Nov%202022%2013%3A18%3A24%20GMT" alt="" height="100%" width="100%" />
             </div>
         </div>
 
